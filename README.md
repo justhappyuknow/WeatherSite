@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+This website uses API OpenWeather.com and Geo DB for current and forecasted weather predictions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
